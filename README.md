@@ -1,6 +1,7 @@
 # hypothesis_testing_on_paid_package_users
 
 DATA:
+
 Table 'calls':
 - `id`
 - `user_id`
